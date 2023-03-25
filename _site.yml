@@ -1,0 +1,21 @@
+output_dir: "_site"
+navbar:
+  logo:
+    image: imagenes/logo.png
+    #href: https://www.rstudio.com
+  title: "Bienvenido"
+  left:
+  - #icon: "fa-home"
+    href: index.html
+  right:
+    - icon: fab fa-github
+      href: https://github.com/Leo4Luffy/GlobalR_WEL
+output: 
+  distill::distill_article:
+    css: styles.css
+collections:
+  posts:
+      categories: true
+      #share: [twitter, linkedin]
+      citations: true
+      #subscribe: _subscribe.html

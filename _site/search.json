@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "GlobalR_WEL",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-03-25T00:23:51+00:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

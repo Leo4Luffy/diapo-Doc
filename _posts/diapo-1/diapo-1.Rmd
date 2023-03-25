@@ -1,0 +1,23 @@
+---
+title: "Fenómica: la frontera actual en la cría de animales"
+base_url: https://diapo-feno.netlify.app
+preview: logo.png
+author:
+  - name: Jorge Leonardo López-Martínez 
+    #url: https://example.com/norajones
+    affiliation: INIA
+    #affiliation_url: https://example.com/spacelysprokets
+date: 2023-03-24
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r icon-links, eval = TRUE, echo = FALSE}
+
+distilltools::icon_link(
+  icon = "images",
+  text = "Diapositiva",
+  url = "https://diapo-feno.netlify.app"
+  )
+```
